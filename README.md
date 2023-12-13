@@ -10,3 +10,9 @@ Simple TABG Plugin Made for BepInEx to be able to directly connect using IP addr
 ![image](https://github.com/JunaidIRF/tabg-direct-connect-plugin/assets/61500818/4a2ff3fa-52eb-489b-abd5-150b2b55d1ca)
 
 I made this plugin after [C0mputery](https://github.com/C0mputery) made the [CUTS](https://github.com/C0mputery/ComputerysUltimateTABGServer) (**C**omputerys**U**ltimate**T**ABG**S**erver).
+
+![image](https://github.com/JunaidIRF/tabg-direct-connect-plugin/assets/61500818/6e74d74a-2243-41c9-a5b3-b8abc20ff2bf)
+
+To Remove the **Anti Cheat Boot Error...** Use [AntiCheatBootErrorRemover](https://github.com/C0mputery/AntiCheatBootErrorRemover) made by [C0mputery](https://github.com/C0mputery).
+
+![image](https://github.com/JunaidIRF/tabg-direct-connect-plugin/assets/61500818/2f1dc18d-7a24-4fc6-b33e-cfda38f28e38)
