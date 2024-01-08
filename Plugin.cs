@@ -9,6 +9,7 @@ using BepInEx.Logging;
 using System.Net;
 using System;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 namespace TABGDirectConnectPlugin
 {
@@ -24,6 +25,20 @@ namespace TABGDirectConnectPlugin
         {
             // Plugin startup logic
             Logger.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
+            SceneManager.sceneLoaded += OnGameLoaded;
+        }
+        private void OnGameLoaded(Scene scene, LoadSceneMode mode)
+        {
+            if (scene.buildIndex == 0) // 0 = main menu
+            {
+                StartCoroutine("LoadDirectConnectUI_delayed");
+            }
+        }
+
+        private IEnumerator LoadDirectConnectUI_delayed()
+        {
+            yield return new WaitForSeconds(2f);
+            LoadDirectConnectUI();
         }
 
         private void Update()
