@@ -4,6 +4,6 @@
     {
         public const string PLUGIN_GUID = "tabg.network.directConnect";
         public const string PLUGIN_NAME = "TABG DirectConnect";
-        public const string PLUGIN_VERSION = "0.0.1";
+        public const string PLUGIN_VERSION = "0.0.2";
     }
 }
