@@ -3,7 +3,7 @@ Simple TABG Plugin Made for BepInEx to be able to directly connect using IP addr
 
 ## Installation
 1. Download [BepInEx_x64_5.4.22.0.zip](https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip) and extract the files inside the game directory/folder.
-2. Download latest [TABGDirectConnectPlugin.dll](https://github.com/JunaidIRF/tabg-direct-connect-plugin/releases/latest) and paste it inside `BepInEx\plugins` folder located in game directory. (Create the folder if doesn't exist) (also paste [AntiCheatBootErrorRemover.dll](https://cdn.discordapp.com/attachments/847415245362167808/1186172116945608714/AntiCheatBootErrorRemover.dll) in `BepInEx\plugins` folder if you don't want Anti Cheat Boot Error.)
+2. Download latest [TABGDirectConnectPlugin.dll](https://github.com/JunaidIRF/tabg-direct-connect-plugin/releases/latest) and paste it inside `BepInEx\plugins` folder located in game directory. (Create the folder if doesn't exist) (also paste [AntiCheatBootErrorRemover.dll](https://cdn.discordapp.com/attachments/846254457858949140/1213783213021990952/AntiCheatBootErrorRemover.dll) in `BepInEx\plugins` folder if you don't want Anti Cheat Boot Error.)
 3. Run TABG without anti-cheat (Run `TotallyAccurateBattlegrounds.exe`)
 4. Go to Server Browser and there will be Direct Connect options. (Leave Password Blank if Server is not Password Protected) (If the UI doesnt show up, Press `Enter`/`Return` Key to manually load it.)
 
