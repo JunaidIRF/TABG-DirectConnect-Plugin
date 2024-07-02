@@ -7,7 +7,8 @@ Simple TABG Plugin Made for BepInEx to be able to directly connect using IP addr
 3. Run TABG without anti-cheat (Run `TotallyAccurateBattlegrounds.exe`)
 4. Go to Server Browser and there will be Direct Connect options. (Leave Password Blank if Server is not Password Protected) (If the UI doesnt show up, Press `Enter`/`Return` Key to manually load it.)
 
-For Server Hosting Use [TABGCommunityServer by JIBSIL](https://github.com/JIBSIL/TABGCommunityServer) or use [CUTS by C0mputery](https://github.com/C0mputery/ComputerysUltimateTABGServer) (CUTS is in development so it will not work as expected for now.)
+~~For Server Hosting Use [TABGCommunityServer by JIBSIL](https://github.com/JIBSIL/TABGCommunityServer) or use [CUTS by C0mputery](https://github.com/C0mputery/ComputerysUltimateTABGServer) (CUTS is in development so it will not work as expected for now.)~~
+### Use Official TABG Dedicated Server by Landfall To Host Server.
 
 ![image](https://github.com/JunaidIRF/tabg-direct-connect-plugin/assets/61500818/4a2ff3fa-52eb-489b-abd5-150b2b55d1ca)
 
